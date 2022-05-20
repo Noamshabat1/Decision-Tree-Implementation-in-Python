@@ -1,11 +1,4 @@
-#################################################################
-# FILE : snake.py
-# WRITER 1 : noam shabat , no.amshabat1 , 206515579
-# EXERCISE : intro2cs2 Noam 2021
-# DESCRIPTION: A file that creates s decision tree.
-# STUDENTS I DISCUSSED THE EXERCISE WITH: ...
-# WEB PAGES I USED: stackoverflow.com
-#################################################################
+
 import itertools
 
 
