@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hebrew_University_Logo.svg/1200px-Hebrew_University_Logo.svg.png" alt="huji-logo" height="150px" />
+  <h1 align="center" style="border-bottom: none"><b>Introduction to Computer Science - Exercise 11 - Decision Trees</b></h1>
+
+
+<div align="center">
   <p align="center">
     <b>Decision Trees</b> is the 11th exercise I've solved in Huji's <b>Introduction to Computer Science</b> course.
     <br>
