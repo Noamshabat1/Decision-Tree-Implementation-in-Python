@@ -1,7 +1,8 @@
+
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hebrew_University_Logo.svg/1200px-Hebrew_University_Logo.svg.png" alt="huji-logo" height="150px" />
   <h1 align="center" style="border-bottom: none"><b>Introduction to Computer Science - Exercise 11 - Decision Trees</b></h1>
-
+</div>
 
 <div align="center">
   <p align="center">
@@ -23,7 +24,7 @@
     <li>Open the cloned project in your IDE</li>
     <li><i>(Optional)</i> Create a virtual environment using <code>python3 -m venv venv</code></li>
     <li>Use <code>pip install -r requirements.txt</code> to install all required libraries</li>
-    <li>run <code>python3 &lt;python file&gt;</code> to run the project</li>
+    <li>Run <code>python3 &lt;python file&gt;</code> to run the project</li>
   </ol>
 </div>
 
